@@ -30,7 +30,6 @@
 }
 .adress-item {
   text-decoration: none;
-  min-width: 237px;
 }
 .header-link-underline-off {
   text-decoration: none;
@@ -45,8 +44,7 @@
   height: 105px;
 }
 .header-adress {
-  margin: 5px 25.48px 2px 0;
-  min-width: 240px;
+  margin: 5px 60px 2px 0;
 }
 .adress {
   justify-self: end;
@@ -273,6 +271,7 @@
 .footer-menu {
   text-align: center;
   list-style: none;
+  margin-left: 35px;
 }
 .footer-link {
   font-size: 18px;
